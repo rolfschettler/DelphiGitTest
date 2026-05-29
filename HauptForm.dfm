@@ -14,9 +14,9 @@ object Haupt: THaupt
   object Label1: TLabel
     Left = 256
     Top = 176
-    Width = 110
+    Width = 140
     Height = 30
-    Caption = 'Hallo Welt!'
+    Caption = 'Hallo Welt!   1'
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = -21
