@@ -16,7 +16,7 @@ object Haupt: THaupt
     Top = 176
     Width = 140
     Height = 30
-    Caption = 'Hallo Welt!   1'
+    Caption = 'Hallo Welt!   2'
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = -21
