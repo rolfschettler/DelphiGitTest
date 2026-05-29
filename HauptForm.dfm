@@ -24,4 +24,11 @@ object Haupt: THaupt
     Font.Style = [fsBold]
     ParentFont = False
   end
+  object Label2: TLabel
+    Left = 248
+    Top = 216
+    Width = 34
+    Height = 15
+    Caption = 'Label2'
+  end
 end

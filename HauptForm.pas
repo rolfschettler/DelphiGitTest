@@ -9,6 +9,7 @@ uses
 type
   THaupt = class(TForm)
     Label1: TLabel;
+    Label2: TLabel;
   private
     { Private-Deklarationen }
   public
