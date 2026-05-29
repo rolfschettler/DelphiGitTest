@@ -14,8 +14,14 @@ object Haupt: THaupt
   object Label1: TLabel
     Left = 256
     Top = 176
-    Width = 185
-    Height = 15
+    Width = 110
+    Height = 30
     Caption = 'Hallo Welt!'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -21
+    Font.Name = 'Segoe UI'
+    Font.Style = [fsBold]
+    ParentFont = False
   end
 end
