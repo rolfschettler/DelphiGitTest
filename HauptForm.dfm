@@ -27,8 +27,8 @@ object Haupt: THaupt
   object Label2: TLabel
     Left = 248
     Top = 216
-    Width = 65
+    Width = 118
     Height = 15
-    Caption = 'Harrys Label'
+    Caption = 'Harrys Label hanz Neu'
   end
 end
