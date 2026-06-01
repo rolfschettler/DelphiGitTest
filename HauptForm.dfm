@@ -25,8 +25,8 @@ object Haupt: THaupt
     ParentFont = False
   end
   object Label2: TLabel
-    Left = 248
-    Top = 216
+    Left = 288
+    Top = 248
     Width = 57
     Height = 15
     Caption = 'Rolfs Label'
